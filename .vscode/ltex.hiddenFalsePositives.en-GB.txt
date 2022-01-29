@@ -1,0 +1,1 @@
+{"rule":"THREE_NN","sentence":"^\\QLearning Tools:\nstatistics\nprobability theory\ndecision theory\ninformation theory\noptimization theory\\E$"}
